@@ -1,9 +1,9 @@
 # Open-source Parametric Branching Valve
 
 Parametric design of an opensource branching valve for respirators optimized for 3D printing (Rhino3D + Grasshopper)
-This is still a work in progress and is currently being developped with surgeons and reanimation specialists.
+IMPORTANT: This is still a work in progress and is currently being developped with surgeons and ICU specialists.
 
-[Valve-4](assets/images/valve-4.png)
+![Valve-4](assets/images/valve-4.png)
 
 ## Design
 
