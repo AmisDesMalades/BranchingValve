@@ -3,6 +3,8 @@
 Parametric design of an opensource branching valve for respirators optimized for 3D printing (Rhino3D + Grasshopper)
 This is still a work in progress and is currently being developped with surgeons and reanimation specialists.
 
+[Valve-4](assets/images/valve-4.png)
+
 ## Design
 
 - The design is built around a radial distribution system of linear interpolated curves extruded in hollow tubes.
